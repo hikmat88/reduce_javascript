@@ -1,0 +1,8 @@
+Reduce() method array
+
+synatx:
+reduce(callbackFn)
+reduce(callbackFn, initialValue)
+
+called the function
+  accumulator,curentValue,currentIndex
